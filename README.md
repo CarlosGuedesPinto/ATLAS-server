@@ -6,6 +6,7 @@ To run and test the server, just read the API Documentation available here (http
 
 ## Authors
 
+* **Gustavo Vasconcelos** - [gustavo-vasconcelos](https://github.com/gustavo-vasconcelos)
+
 * **Carlos Guedes** - [CarlosGuedesPinto](https://github.com/CarlosGuedesPinto)
 
-* **Gustavo Vasconcelos** - [gustavo-vasconcelos](https://github.com/gustavo-vasconcelos)
